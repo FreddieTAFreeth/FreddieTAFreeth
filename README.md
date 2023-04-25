@@ -1,1 +1,2 @@
-I’m @FreddieTAFreeth, former Research Fellow in Mathematical Modelling and Epidemiology in the School of Veterinary Medicine at the University of Surrey, and I am now a PhD student in the same department. I’m interested in mathematically modelling complex systems, mostly from biology. I have worked on projects ranging from neuroscience, to ecology, to parasitic epidemics. Feel free to contact me here, or via my LinkedIn.
+### Hello! I'm Fred. 👋
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FreddieTAFreeth&theme=solarized)
